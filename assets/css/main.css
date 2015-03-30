@@ -87,11 +87,13 @@ a:after {
 .navbar {
 	text-transform: uppercase;
 	margin-bottom: 0px;
+	
 }
 
+
 .navbar-inverse {
-	padding-bottom: 70px;
-	padding-top: 70px;
+	padding-bottom: 50px;
+	padding-top: 50px;
 }
 
 .navbar-inverse {
