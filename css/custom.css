@@ -33,7 +33,7 @@ p {
 }
 
 a {
-	color: #1794E8;
+	color: #0A2E5E;
 	-webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
@@ -261,6 +261,10 @@ transform: scale(1);
 .my-work img:hover {
 	opacity:0.8;
 }
+.mylinks{
+	background-color: #aaa;
+	
+}
 
 @media (min-width: 767px) {
 	.content-section {
@@ -352,7 +356,6 @@ img::-moz-selection {
 }
 .driedeeschaduw {
 	color: #FFF;
-	font-size: 16em;
 	font-weight: bold;
 	text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, .1), 0 0 5px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .3), 0 3px 5px rgba(0, 0, 0, .2), 0 5px 10px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .2), 0 20px 20px rgba(0, 0, 0, .15);
 	text-align: center;
