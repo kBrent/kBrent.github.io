@@ -276,6 +276,10 @@ transform: scale(1);
 	}
 }
 
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
 .btn {
 	border-radius: 0;
 	text-transform: uppercase;
